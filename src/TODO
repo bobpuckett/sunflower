@@ -1,3 +1,0 @@
-Git tracks files, so adding a src folder without a file inside does nothing.
-
-The plan for this folder is to have one subfolder per project or project type.
